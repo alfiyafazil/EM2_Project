@@ -1,0 +1,7 @@
+---
+applications:
+ - name: alfiya-flowervalley-em2-project
+   routes:
+    - route: alfiya-flowervalley-em2-project.eu-gb.mybluemix.net
+   memory: 100M
+   disk_quota: 200M

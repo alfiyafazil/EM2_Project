@@ -1,0 +1,35 @@
+body{
+	text-align: center !important;
+    background-color: black;
+    margin-top: 20px;
+}
+#span{
+    color: white;
+    font-size: 20px;
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+    color: white;
+    font-family: cursive;
+    margin-top: 40px;
+}
+.yellow {
+	color: yellow;
+}
+
+.green {
+	color: greenyellow;
+}
+span{
+    font-size: 40px;
+    font-family: cursive;
+}
+input{
+	text-align: center;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
